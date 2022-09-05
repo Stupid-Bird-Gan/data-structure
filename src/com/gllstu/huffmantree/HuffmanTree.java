@@ -12,6 +12,7 @@ public class HuffmanTree {
         int[] arr={13,7,8,3,29,6,1};
         createHuffmanTree(arr);//huffman
         //000000
+        //111111
     }
     //前序遍历
     public static void preOrder(Node root){
