@@ -10,8 +10,7 @@ import java.util.Collections;
 public class HuffmanTree {
     public static void main(String[] args) {
         int[] arr={13,7,8,3,29,6,1};
-        createHuffmanTree(arr);
-
+        createHuffmanTree(arr);//huffman
     }
     //前序遍历
     public static void preOrder(Node root){
